@@ -39,7 +39,7 @@ A navigation menu for seamless exploration.
 A user-friendly form with fields for name, email, preferred tour dates, and number of participants.
 A submit button to send the form data for processing.
 How to View My Project
-If you'd like to see what I've created, here's how you can do it:
+If you'd like to see what I've created, here's how you can do it: <https://codeelite1337.github.io/safari-adventure/>
 
 Clone this repository: git clone <https://github.com/CodeElite1337/safari-adventure.git>
 Navigate to the project folder: cd safari-adventure
